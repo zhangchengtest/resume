@@ -12,21 +12,6 @@
       "qrcode": "static/cheng_wechat.jpg"
     }
   },
-  "links": [{
-    "type": "repo",
-    "url": "https://github.com/joyeecheung/resume"
-
-  }, {
-    "type": "pdf",
-    "url": "static/joyeecheung.pdf"
-
-  }, {
-    "type": "zhihu",
-    "url": "http://www.zhihu.com/people/zhang-qiu-yi-27/"
-  }, {
-    "type": "doubanbook",
-    "url": "http://book.douban.com/people/joyee-cheung/"
-  }],
   "education": [{
     "type": "undergraduate",
     "name": "上海理工大学",
