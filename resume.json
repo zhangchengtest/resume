@@ -12,6 +12,10 @@
       "qrcode": "static/cheng_wechat.jpg"
     }
   },
+  "links": [{
+    "type": "pdf",
+    "url": "static/zhangcheng.pdf"
+  }],
   "education": [{
     "type": "undergraduate",
     "name": "上海理工大学",
